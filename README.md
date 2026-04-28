@@ -6,7 +6,7 @@ Saritex is a modern, responsive **academic assistance website** built using a st
 
 ## 🚀 Live Demo
 
-👉 https://keshawgithub.github.io/Saritex/ *(Enable GitHub Pages to activate)*
+👉 https://saritex.netlify.app/
 
 ---
 
